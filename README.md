@@ -33,87 +33,87 @@
 
 ## Cloud Computing:
 - IP Addresses:
-  19 Private IP Addresses
-  20 Public IP Addresses
-  21 Local IP Addresses
-  22 IPv4 and IPv6
-23 DNS (Domain Name System):
+  19. Private IP Addresses
+  20. Public IP Addresses
+  21. Local IP Addresses
+  22. IPv4 and IPv6
+23. DNS (Domain Name System):
   - Translates Domain Names to IP Addresses
-24 Routing:
-  25 The Path Selection Process in Networks
+24. Routing:
+  25. The Path Selection Process in Networks
 
 ## Virtualization:
-26 Bare Metal Servers
-27 Dual Boot Systems
-28 Hypervisors (Type-1 and Type-2)
-29 VMware
+26. Bare Metal Servers
+27. Dual Boot Systems
+28. Hypervisors (Type-1 and Type-2)
+29. VMware
 
 ## Cloud Computing Providers:
-30 AWS (Amazon Web Services)
-31 Azure (Microsoft)
-32 GCP (Google Cloud Platform)
+30. AWS (Amazon Web Services)
+31. Azure (Microsoft)
+32. GCP (Google Cloud Platform)
 
 ## Security:
-33 GDPR (General Data Protection Regulation)
-34 HTTPS (HTTP Secure)
-35 SSL (Secure Socket Layer)
-36 TLS (Transport Layer Security)
-37 Cryptography and Post-Cryptography
+33. GDPR (General Data Protection Regulation)
+34. HTTPS (HTTP Secure)
+35. SSL (Secure Socket Layer)
+36. TLS (Transport Layer Security)
+37. Cryptography and Post-Cryptography
 
 ## Networking and Protocols:
 - OSI Model (7 Layers)
-38 :Physical Layer
-39 Data Link Layer
-40 Network Layer
-41  Transport Layer
-42 Session Layer
-43 Presentation Layer
-44 Application Layer
-45 TCP/IP (Transmission Control Protocol/Internet Protocol)
-46 URL (Uniform Resource Locator)
-47 Ports and Packets
-48 Load Balancing
+38. :Physical Layer
+39. Data Link Layer
+40. Network Layer
+41.  Transport Layer
+42. Session Layer
+43. Presentation Layer
+44. Application Layer
+45. TCP/IP (Transmission Control Protocol/Internet Protocol)
+46. URL (Uniform Resource Locator)
+47. Ports and Packets
+48. Load Balancing
 
 ## Computer Architecture:
-49 Von Neumann vs. Harvard Architecture
-- FPGA (Field-Programmable Gate Array)
-- ASICs (Application-Specific Integrated Circuits)
+49. Von Neumann vs. Harvard Architecture
+50. FPGA (Field-Programmable Gate Array)
+51. ASICs (Application-Specific Integrated Circuits)
 
 ## Programming:
-- Object-Oriented Programming (OOP)
-- OOP Concepts (Class, Object, Inheritance, etc.)
-- IDE (Integrated Development Environment)
-- C, C++, Rust
+52. Object-Oriented Programming (OOP)
+53. OOP Concepts (Class, Object, Inheritance, etc.)
+54. IDE (Integrated Development Environment)
+55. - C, C++, Rust
 
 ## Commonly Used Linux Commands:
 
 ### File and Directory Operations:
-- `ls`: List directory contents
-- `cd`: Change directory
-- `pwd`: Print working directory
-- `mkdir`: Make a new directory
-- `rm`: Remove files or directories
-- `mv`: Move or rename files or directories
-- `cp`: Copy files or directories
+56. `ls`: List directory contents
+57. `cd`: Change directory
+58.  `pwd`: Print working directory
+59.  `mkdir`: Make a new directory
+60.`rm`: Remove files or directories
+61. `mv`: Move or rename files or directories
+62.`cp`: Copy files or directories
 
 ### File Permissions:
-- `chmod`: Change file permissions
-- `chown`: Change file or directory ownership
+63. `chmod`: Change file permissions
+64. `chown`: Change file or directory ownership
 
 ### System Information:
-- `top`: Display system processes
-- `df`: Display disk space usage
-- `du`: Estimate file and directory space usage
-- `free`: Display amount of free and used memory in the system
+65. `top`: Display system processes
+66. `df`: Display disk space usage
+67.`du`: Estimate file and directory space usage
+68.`free`: Display amount of free and used memory in the system
 
 ### Text Processing:
-- `cat`: Concatenate and display file content
-- `grep`: Search text using patterns
-- `sed`: Stream editor for text manipulation
-- `awk`: Text processing tool for data extraction
+69. `cat`: Concatenate and display file content
+70.`grep`: Search text using patterns
+80. `sed`: Stream editor for text manipulation
+81.`awk`: Text processing tool for data extraction
 
 ### Package Management (Debian/Ubuntu):
-- `apt-get`: APT package handling utility (Debian/Ubuntu)
+82. `apt-get`: APT package handling utility (Debian/Ubuntu)
 
 ### Package Management (Red Hat/CentOS):
 - `yum`: Package manager (Red Hat/CentOS)
