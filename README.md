@@ -90,11 +90,11 @@
 ### File and Directory Operations:
 56. `ls`: List directory contents
 57. `cd`: Change directory
-58.  `pwd`: Print working directory
-59.  `mkdir`: Make a new directory
-60.`rm`: Remove files or directories
+58. `pwd`: Print working directory
+59. `mkdir`: Make a new directory
+60. `rm`: Remove files or directories
 61. `mv`: Move or rename files or directories
-62.`cp`: Copy files or directories
+62. `cp`: Copy files or directories
 
 ### File Permissions:
 63. `chmod`: Change file permissions
@@ -103,14 +103,14 @@
 ### System Information:
 65. `top`: Display system processes
 66. `df`: Display disk space usage
-67.`du`: Estimate file and directory space usage
-68.`free`: Display amount of free and used memory in the system
+67. `du`: Estimate file and directory space usage
+68. `free`: Display amount of free and used memory in the system
 
 ### Text Processing:
 69. `cat`: Concatenate and display file content
-70.`grep`: Search text using patterns
+70. `grep`: Search text using patterns
 80. `sed`: Stream editor for text manipulation
-81.`awk`: Text processing tool for data extraction
+81. `awk`: Text processing tool for data extraction
 
 ### Package Management (Debian/Ubuntu):
 82. `apt-get`: APT package handling utility (Debian/Ubuntu)
