@@ -1,81 +1,81 @@
 ### Hiii, I am Santosh Kumar Sah👋
 ## Desktop Computing:
-- Computation : the use of computers, especially as a subject of research or study.
-- Storage: the putting and keeping of things in a special place for use in the future
-- Network
+1. Computation : the use of computers, especially as a subject of research or study.
+2. Storage: the putting and keeping of things in a special place for use in the future
+3.Network
 
 ## Hardware Units:
-- CPU (Central Processing Unit)
-- GPU (Graphics Processing Unit)
-- DPU (Data Processing Unit)
-- TPU (Tensor Processing Unit)
+4. CPU (Central Processing Unit)
+5. GPU (Graphics Processing Unit)
+6. DPU (Data Processing Unit)
+7. TPU (Tensor Processing Unit)
 
 ## Computer Architectures:
-- CISC (Complex Instruction Set Computer)
-- RISC (Reduced Instruction Set Computer)
-- RISC-V (Open Source RISC Variant)
+8. CISC (Complex Instruction Set Computer)
+9. RISC (Reduced Instruction Set Computer)
+10 RISC-V (Open Source RISC Variant)
 
 ## Kernel and Operating Systems:
-- Kernel (Manages Hardware and Software Interaction)
-- ![image](https://github.com/santoshsah81/Keywords.18/assets/142914812/fe2d8f92-d1ef-4b28-a503-6ee3b3459d0d)
+11. Kernel (Manages Hardware and Software Interaction)
+12 ![image](https://github.com/santoshsah81/Keywords.18/assets/142914812/fe2d8f92-d1ef-4b28-a503-6ee3b3459d0d)
 
-- Operating Systems (e.g., Windows, macOS, Linux)
+13.Operating Systems (e.g., Windows, macOS, Linux)
 ![image](https://github.com/santoshsah81/Keywords.18/assets/142914812/22ddf0cc-84ec-43a0-b962-736d6469af0c)
 
 ## Linux:
-- Debian and RHEL Linux Families
-- Package Manager (Yum)
-- IBM's Ownership of Red Hat
+14. Debian and RHEL Linux Families
+15. Package Manager (Yum)
+16. IBM.'s Ownership of Red Hat
 
 ## Networking:
-- Internet (WAN - Wide Area Network)
-- Intranet (LAN - Local Area Network)
+17. Internet (WAN - Wide Area Network)
+18. Intranet (LAN - Local Area Network)
 
 ## Cloud Computing:
 - IP Addresses:
-  - Private IP Addresses
-  - Public IP Addresses
-  - Local IP Addresses
-  - IPv4 and IPv6
-- DNS (Domain Name System):
+  19 Private IP Addresses
+  20 Public IP Addresses
+  21 Local IP Addresses
+  22 IPv4 and IPv6
+23 DNS (Domain Name System):
   - Translates Domain Names to IP Addresses
-- Routing:
-  - The Path Selection Process in Networks
+24 Routing:
+  25 The Path Selection Process in Networks
 
 ## Virtualization:
-- Bare Metal Servers
-- Dual Boot Systems
-- Hypervisors (Type-1 and Type-2)
-- VMware
+26 Bare Metal Servers
+27 Dual Boot Systems
+28 Hypervisors (Type-1 and Type-2)
+29 VMware
 
 ## Cloud Computing Providers:
-- AWS (Amazon Web Services)
-- Azure (Microsoft)
-- GCP (Google Cloud Platform)
+30 AWS (Amazon Web Services)
+31 Azure (Microsoft)
+32 GCP (Google Cloud Platform)
 
 ## Security:
-- GDPR (General Data Protection Regulation)
-- HTTPS (HTTP Secure)
-- SSL (Secure Socket Layer)
-- TLS (Transport Layer Security)
-- Cryptography and Post-Cryptography
+33 GDPR (General Data Protection Regulation)
+34 HTTPS (HTTP Secure)
+35 SSL (Secure Socket Layer)
+36 TLS (Transport Layer Security)
+37 Cryptography and Post-Cryptography
 
 ## Networking and Protocols:
 - OSI Model (7 Layers)
- :Physical Layer
-  Data Link Layer
-  Network Layer
-  Transport Layer
-  Session Layer
-  Presentation Layer
-  Application Layer
-- TCP/IP (Transmission Control Protocol/Internet Protocol)
-- URL (Uniform Resource Locator)
-- Ports and Packets
-- Load Balancing
+38 :Physical Layer
+39 Data Link Layer
+40 Network Layer
+41  Transport Layer
+42 Session Layer
+43 Presentation Layer
+44 Application Layer
+45 TCP/IP (Transmission Control Protocol/Internet Protocol)
+46 URL (Uniform Resource Locator)
+47 Ports and Packets
+48 Load Balancing
 
 ## Computer Architecture:
-- Von Neumann vs. Harvard Architecture
+49 Von Neumann vs. Harvard Architecture
 - FPGA (Field-Programmable Gate Array)
 - ASICs (Application-Specific Integrated Circuits)
 
