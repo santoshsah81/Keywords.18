@@ -37,9 +37,9 @@
   20. Public IP Addresses
   21. Local IP Addresses
   22. IPv4 and IPv6
-23. DNS (Domain Name System):
+  23. DNS (Domain Name System):
   - Translates Domain Names to IP Addresses
-24. Routing:
+  24. Routing:
   25. The Path Selection Process in Networks
 
 ## Virtualization:
@@ -116,49 +116,47 @@
 82. `apt-get`: APT package handling utility (Debian/Ubuntu)
 
 ### Package Management (Red Hat/CentOS):
-- `yum`: Package manager (Red Hat/CentOS)
+83. `yum`: Package manager (Red Hat/CentOS)
 
 ### Process Management:
-- `ps`: Display information about running processes
-- `kill`: Terminate processes by process ID
+84. `ps`: Display information about running processes
+85. `kill`: Terminate processes by process ID
 
 ### Networking:
-- `ifconfig`: Configure network interfaces
-- `ping`: Test network connectivity to a remote host
+86. `ifconfig`: Configure network interfaces
+87. `ping`: Test network connectivity to a remote host
 
 
 ## Blockchain and Cryptocurrency:
-- Blockchain Technology
-- Satoshi Nakamoto
-- Cryptocurrencies
-- ICO (Initial Coin Offering)
+88.  Blockchain Technology
+89.  Satoshi Nakamoto
+90.  Cryptocurrencies
+91.  ICO (Initial Coin Offering)
 
 ## Network and Security:
-- NAT (Network Address Translation)
-- Router
-- Firewall
+100. NAT (Network Address Translation)
+101. Router
+102. Firewall
 
 ## Software Development:
-- Compiler vs. Interpreter
-- Scheduling
-- Firmware
+103. Compiler vs. Interpreter
+104. Scheduling
+105. Firmware
 
 ## Cloud Services:
-- IaaS, PaaS, SaaS
-- Public, Private, Hybrid Clouds
+106. IaaS, PaaS, SaaS
+107. Public, Private, Hybrid Clouds
 
 ## Linux Directory Structure:
-- /bin, /sbin, /etc, /dev, /proc, /var, /tmp, /usr, /home, /boot, /lib, /opt, /mnt, /media, /srv
+108.  /bin, /sbin, /etc, /dev, /proc, /var, /tmp, /usr, /home, /boot, /lib, /opt, /mnt, /media, /srv
 
 ## Other Terms:
-- Port Numbers (HTTP, HTTPS, FTP, SMTP, Telnet, SSH)
-- Seven Layers of OSI Model
-- NAT (Network Address Translation)
-- Router
-- Firmware
-- TLS (Transport Layer Security)
-- Stack Data Structure
-- IAM (Identity and Access Management)
+109. Port Numbers (HTTP, HTTPS, FTP, SMTP, Telnet, SSH)
+110. Seven Layers of OSI Model
+112. Router
+113. Firmware
+114. TLS (Transport Layer Security)
+115. Stack Data StructureIAM (Identity and Access Management)
 - nginx (Proxy Server)
 - Apache (Web Server)
 - UDP (User Datagram Protocol)
